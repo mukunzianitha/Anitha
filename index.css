@@ -1,0 +1,26 @@
+body{
+  background-color: blueviolet;
+}
+
+.btn{
+  text-decoration: underline;
+  font-family: jokerman;
+  border: 1px solid black;
+  color: white;
+  background-color: rgb(111, 71, 71);
+  width: 25rem;
+  border-radius: 12px;
+  
+}
+
+.dot{
+  justify-content: center;
+  text-align: center;
+  float: right;
+  transform: translateY(-10);
+  border: 1px solid black;
+  color: white;
+  background-color: black;
+  border-radius: 12px;
+
+}
